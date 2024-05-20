@@ -1,1 +1,2 @@
-# Smart-Canteen-System
+# Canteen-Management-System
+
